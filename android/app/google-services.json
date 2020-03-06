@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839251901293",
+    "firebase_url": "https://driveuploader-b0cfd.firebaseio.com",
+    "project_id": "driveuploader-b0cfd",
+    "storage_bucket": "driveuploader-b0cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839251901293:android:3b9d9d9b4894fd877c3864",
+        "android_client_info": {
+          "package_name": "com.googledriveuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839251901293-lo4l5ecorbu5igbpg5ftj9r1icu1bv9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googledriveuploader",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "839251901293-dka9n8h1aah2edg6irmtqns99pg4qjvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVVqNsyDEwzwMPaEkCMePVRUO3loS4EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839251901293-dka9n8h1aah2edg6irmtqns99pg4qjvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
